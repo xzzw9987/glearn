@@ -3,13 +3,6 @@ time is 10:49
 10:51
 11:10 reset something
 
-
-
-
-
-
-
-
 add something a
 add something b
 
